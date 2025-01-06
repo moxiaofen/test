@@ -17,7 +17,7 @@ function App() {
           <span>te1main</span>
           <span>1111te</span>
           <span>222main</span>
-          <i>te2--te2</i>
+          <i>te2--te1</i>
           <i>te2te2</i>
         </p>
       </header>
