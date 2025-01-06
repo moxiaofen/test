@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -9,15 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>test te2</p>
-        <p>test te3  test te3 </p>
-        <p>test te1  test te1  test te1 </p>
-
-        <p>test te1  test te1  test te1  test te1 </p>
-
-        <p>test te2  test te2  test te2 test te2</p>
-
-
       </header>
     </div>
   );
