@@ -20,7 +20,7 @@ function App() {
           <i>te2--te1--te2</i>
           <i>te2--add</i>
         </p>
-      </header>
+      </header> 
     </div>
   );
 }
