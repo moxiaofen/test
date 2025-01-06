@@ -21,6 +21,8 @@ function App() {
           <i>te2--add</i>
           <i>te1 </i>
           <i>te1 add</i>
+          <span>te1--te2</span>
+          <i>te1--add</i>
         </p>
       </header>
     </div>
